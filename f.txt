@@ -1,0 +1,1 @@
+document.write('\x3cimg src\x3d\x22http://foxnet.demdex.net/event?d_event\x3dimp\x26amp;d_src\x3d10907\x26amp;d_site\x3d1276890\x26amp;d_creative\x3d60491912\x26amp;d_placement\x3d113959940\x26amp;d_campaign\x3d8398701\x26amp;d_bust\x3d76628949\x22 height\x3d\x221\x22 width\x3d\x221\x22 border\x3d\x220\x22\x3e');
